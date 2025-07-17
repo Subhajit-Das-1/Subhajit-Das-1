@@ -22,7 +22,7 @@
 > 🎧 Recommends playlists based on user-selected mood. Fully responsive & deployed on Vercel.
 
 #### 🖼 Screenshot:
-<img src="https://github.com/Subhajit-Das-1/Subhajit-Das-1/blob/main/assets/moodify-preview.png" alt="Moodify Screenshot" width="100%"/>
+<img src="https://github.com/Subhajit-Das-1/Subhajit-Das-1/blob/main/moodify-preview.png" alt="Moodify Screenshot" width="100%"/>
 
 ---
 
