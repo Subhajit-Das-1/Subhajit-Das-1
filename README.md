@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Subhajit!;ECE+@+KGEC+%7C+IoT+%7C+Web+Dev+Explorer;Built+Moodify+%F0%9F%8E%A7+%7C+Code.+Build.+Repeat+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Subhajit!;ECE+@+KGEC+%7C+IoT+%7C+Web+Dev+Explorer;Built+Moodify+%F0%9F%8E%A7+%7C+Code.+Build.+Repeat+%E2%9C%A8" alt="Typing SVG" />
 </p>
+
 
 ### 👨‍💻 About Me
 
