@@ -29,11 +29,11 @@
 
 ### 💼 Projects Showcase
 
-| Project       | Description                                  | Live Demo |
-|---------------|----------------------------------------------|------------|
-| **Moodify**   | Mood-based music recommender (Spotify API)   | [View](https://moodify-taupe.vercel.app) |
-| **SmilingClouds** | A clean landing page with animation and resume download | [View](https://smiling-clouds.vercel.app) |
-| **SkillBridge** | Micro-internship platform for students     | Coming soon... |
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| **Moodify** | Mood-based music recommender using the Spotify API | [View](https://moodify-taupe.vercel.app) |
+| **Disease Prediction App** | Flask-based ML web application that predicts **Heart Disease, Diabetes, and Breast Cancer** using trained machine learning models. Users enter medical data and get instant predictions through a simple, interactive UI. | [View](https://diseasepredictionapp-2-miua.onrender.com) |
+| **Estatein** | A modern, responsive real estate website built with **React, Tailwind CSS, Node.js, Express, and MongoDB**. Features full user authentication (Email & Google), smooth SPA navigation, and a clean, engaging UI. | [View](https://estatein-real-estate-two.vercel.app) |
 
 ---
 
