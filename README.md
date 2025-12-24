@@ -92,21 +92,55 @@
 
 ## 🌐 Let's Connect & Build
 
-### 📱 Social Links
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/subhajit-das-tech" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Subhajit%20Das-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/SubhajitDas2005" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-@SubhajitDas2005-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Subhajit-Das-1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Subhajit--Das--1-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+---
 
 ---
+
+### 🧩 Social Links
+
+<div align="center" style="
+  background: linear-gradient(135deg, #020617, #0f172a);
+  padding: 24px;
+  border-radius: 18px;
+  box-shadow: 0 0 28px rgba(56,189,248,0.25);
+">
+
+<table>
+<tr align="center">
+
+<td>
+<a href="https://www.linkedin.com/in/subhajit-das-tech">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><br/>
+<sub style="color:#60A5FA;"><b>Subhajit Das</b></sub>
+</td>
+
+<td width="40"></td>
+
+<td>
+<a href="https://x.com/SubhajitDas2005">
+<img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a><br/>
+<sub style="color:#C4B5FD;"><b>@SubhajitDas2005</b></sub>
+</td>
+
+<td width="40"></td>
+
+<td>
+<a href="https://github.com/Subhajit-Das-1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><br/>
+<sub style="color:#FDE68A;"><b>Subhajit-Das-1</b></sub>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+
 
 ### ⚡ Always Building
 
