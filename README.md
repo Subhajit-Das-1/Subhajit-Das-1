@@ -88,15 +88,45 @@
 
 ---
 
-### 📫 Let's Connect!
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/subhajit-das-tech/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Subhajit-Das-1)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff5722?style=flat&logo=vercel&logoColor=white)](https://github.com/Subhajit-Das-1/ADVPortfolioWebsite)
+## 🌐 Let's Connect & Build
+
+### 📱 Social Links
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/subhajit-das-tech" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Subhajit%20Das-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/SubhajitDas2005" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-@SubhajitDas2005-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Subhajit-Das-1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Subhajit--Das--1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
+### ⚡ Always Building
+
+Curious mind. Code-driven.  
+Turning ideas into real-world logic — one commit at a time 🚀
+
+---
+
+---
+
+### ☁️ Random Dev Quote
+
 <p align="center">
-  💬 “Let’s build something great together!”
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
+    alt="Random Dev Quote"
+  />
 </p>
+
+---
+
+
 
