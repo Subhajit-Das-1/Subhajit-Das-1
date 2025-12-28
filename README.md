@@ -80,8 +80,6 @@
 
 ### 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhajit-Das-1&show_icons=true&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Subhajit-Das-1&theme=radical&hide_border=true)
