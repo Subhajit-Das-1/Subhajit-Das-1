@@ -80,13 +80,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhajit-Das-1&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhajit-Das-1&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit-Das-1&layout=compact&theme=radical" width="48%" />
-</p>
-
----
+![Stats](https://github-readme-stats.vercel.app/api?username=Subhajit-Das-1&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=Subhajit-Das-1&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajit-Das-1&layout=compact&theme=radical)
 
 ---
 
