@@ -45,7 +45,7 @@
 | **Disease Prediction App** | Flask-based ML web application that predicts **Heart Disease, Diabetes, and Breast Cancer** using trained machine learning models. Users enter medical data and get instant predictions through a simple, interactive UI. | [View](https://diseasepredictionapp-2-miua.onrender.com) |
 | **Estatein** | A modern, responsive real estate website built with **React, Tailwind CSS, Node.js, Express, and MongoDB**. Features full user authentication (Email & Google), smooth SPA navigation, and a clean, engaging UI. | [View](https://estatein-real-estate-two.vercel.app) |
 
----
+--- 
 🧰 Tech Stack
 <table align="center"> <tr> <th>🎨 Frontend</th> <th>⚙️ Backend</th> <th>🗄️ Database</th> <th>🧠 AI / ML</th> <th>🔌 IoT / Embedded</th> <th>🛠️ Tools</th> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><br/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/><br/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> </td>
 <td align="center">
