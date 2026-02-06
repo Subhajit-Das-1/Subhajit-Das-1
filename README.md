@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1lOG95ejJ2NTNuYXprc3IxZzZ4ajA4czVwenF2dGVkY2liZ3VlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" width="200"/>
 </p>
-<p align="center">
+<p align="center"> 
   <img src="https://img.shields.io/badge/Hi%20there%20👋%20I'm%20Subhajit-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/ECE%20@%20KGEC-1E293B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Web%20Developer-22C55E?style=for-the-badge"/>
