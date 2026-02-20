@@ -1,5 +1,5 @@
 <!-- GitHub Profile README for Subhajit Das -->  
-<p align="center">
+<p align="center">  
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1lOG95ejJ2NTNuYXprc3IxZzZ4ajA4czVwenF2dGVkY2liZ3VlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" width="200"/>
 </p>
 <p align="center"> 
